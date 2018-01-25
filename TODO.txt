@@ -1,0 +1,9 @@
+TODO:
+
+x - Add speed multipliers at the right interval
+x - Test game ends at 20
+x - Test speed multipliers
+x - Make strict mode button show as toggled on/off
+
+x - USER STORY: If I press the wrong button, I am notified that I have done so, and that series of button presses starts again to remind me of the pattern so I can try again
+  x - I Need to make it replay the sequence when we're not on strict mode... blehhh
